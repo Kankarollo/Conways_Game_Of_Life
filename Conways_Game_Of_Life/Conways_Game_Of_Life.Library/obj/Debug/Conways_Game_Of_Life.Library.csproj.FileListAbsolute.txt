@@ -1,0 +1,6 @@
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Normalne\Conways_Game_Of_Life\Conways_Game_Of_Life.Library\obj\Debug\Conways_Game_Of_Life.Library.csprojResolveAssemblyReference.cache
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Normalne\Conways_Game_Of_Life\Conways_Game_Of_Life.Library\obj\Debug\Conways_Game_Of_Life.Library.csproj.CoreCompileInputs.cache
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Normalne\Conways_Game_Of_Life\Conways_Game_Of_Life.Library\bin\Debug\Conways_Game_Of_Life.Library.dll
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Normalne\Conways_Game_Of_Life\Conways_Game_Of_Life.Library\bin\Debug\Conways_Game_Of_Life.Library.pdb
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Normalne\Conways_Game_Of_Life\Conways_Game_Of_Life.Library\obj\Debug\Conways_Game_Of_Life.Library.dll
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Normalne\Conways_Game_Of_Life\Conways_Game_Of_Life.Library\obj\Debug\Conways_Game_Of_Life.Library.pdb
